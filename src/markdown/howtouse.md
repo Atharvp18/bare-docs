@@ -29,4 +29,4 @@ Suppose you have made barebones for express app and want to use it later project
     And a file with `recipe.json` in root of the project.
 
 ## Recipe.json
-To learn more about recipe.json, click [here](src/markdown/recipe.md)
+To learn more about recipe.json, click [here](/recipe.md)
